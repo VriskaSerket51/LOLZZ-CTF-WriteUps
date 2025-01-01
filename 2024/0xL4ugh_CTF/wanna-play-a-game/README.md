@@ -4,7 +4,7 @@
 
 `We can jump any address with our rdx. So leak the address of get_shell, and go to that address.`
 
-```
+```python
 from pwn import *
 e = ELF('chall')
 HOST = 'fe34abc77b40214b09648640e2a19860.chal.ctf.ae'

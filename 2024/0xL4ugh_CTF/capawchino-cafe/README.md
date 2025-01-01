@@ -10,7 +10,7 @@
 [https://eprint.iacr.org/2023/305.pdf](https://eprint.iacr.org/2023/305.pdf)
 
 `code for phase 1`
-```
+```python
 from pwn import *
 import hashlib
 import json
@@ -49,7 +49,7 @@ p.interactive()
 ```
 
 `code for phase 2`
-```
+```python
 #!/usr/bin/env sage
 
 from sage.all import GF, PolynomialRing

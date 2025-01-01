@@ -1,7 +1,7 @@
 # I Like McDonalds
 
 This is 'server.py'
-```
+```python
 import hashlib
 from typing import List
 
