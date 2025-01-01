@@ -5,7 +5,7 @@
 `Phase 1: solve with AES-CTR (just xor)`
 `Phase 2: find d with related nonce, r and s`
 
-`solve with this pager's code`
+`solve with this paper's code`
 [https://eprint.iacr.org/2023/305.pdf](https://eprint.iacr.org/2023/305.pdf)
 
 `code for phase 1`
