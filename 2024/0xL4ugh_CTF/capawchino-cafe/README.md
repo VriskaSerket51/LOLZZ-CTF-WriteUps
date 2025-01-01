@@ -3,6 +3,7 @@
 `Crypto/ECDSA`
 
 `Phase 1: solve with AES-CTR (just xor)`
+
 `Phase 2: find d with related nonce, r and s`
 
 `solve with this paper's code`
