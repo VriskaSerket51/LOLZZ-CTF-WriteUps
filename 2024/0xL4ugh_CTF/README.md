@@ -10,9 +10,11 @@ Team Name: **\_\_LOLZZ__**, 6th place
 - [Vault](vault/README.md)
 - [The Joker 2](the-joker-2/README.md)
 
-## Crypto
+## Cryptography
 - [18 Karat Gold](18-karat-gold/README.md)
 - [Capawchino Cafe](capawchino-cafe/README.md)
+
+## Pwn
 - [Wanna Play a Game?](wanna-play-a-game/README.md)
 
 ## Mobile
