@@ -13,9 +13,12 @@ Team Name: **\_\_LOLZZ__**, 6th place
 ## Cryptography
 - [18 Karat Gold](18-karat-gold/README.md)
 - [Capawchino Cafe](capawchino-cafe/README.md)
+- [My Vault](my-vault/README.md)
 
 ## Pwn
+- [Recover your vision](recover-your-vision/README.md)
 - [Wanna Play a Game?](wanna-play-a-game/README.md)
+- [Yet Another Format String Bug](yet-another-format-string-bug/README.md)
 
 ## Mobile
 - [Russian Roulette](russian-roulette/README.md)
