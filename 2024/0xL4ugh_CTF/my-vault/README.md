@@ -1,13 +1,12 @@
-# Title
+# My Vault
+Simple Brute Force Problem, decode password format is `year+country`
+*e.g) 2024korea*
 
-`Description`
+Each of the password is
+1. `2005russia`
+2. `2016qatar`
+3. `1980turkey`
 
-`Solution`
+Each file contains small part of flag.
 
-```python
-foo = "bar"
-```
-
-![img](flag.png)
-
-flag is: **flag{foo_bar}**
+flag is: **0xL4ugh{sad!_no_easy_challs_anymore}**
