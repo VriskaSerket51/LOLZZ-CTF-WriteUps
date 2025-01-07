@@ -1,0 +1,18 @@
+{
+  "Welcome": ["Sanity Check", "Discord", "Exit Survey"],
+  "Web Exploitation": ["Password Manager"],
+  "Reverse Engineering": ["Now this will run on my 486?"],
+  "Binary Exploitation": ["sqlate"],
+  "Cryptography": ["KittyCrypt"],
+  "Open-Source Intelligence": [
+    "OSINT DISCLAIMER",
+    "Checking Out of Winter",
+    "Sleuths and Sweets",
+    "Not Eelaborate",
+    "fuel deal",
+    "where's bobby"
+  ],
+  "Networks": ["No Shark?", "Inferno Barrier", "Shake My Hand"],
+  "Forensics": ["deldeldel", "Tracem 1"],
+  "Miscellaneous": ["O_WRONLY", "Cobra's Den"]
+}
