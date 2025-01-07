@@ -1,14 +1,12 @@
-# CTF Title
+# {{title}}
 
-WriteUps for [Title](Link)
+WriteUps for [{{title}}](Link)
 
 Team Name: **:LOLZZ:**, nth place
 
-## Reverse
-- [PROBLEM-TITLE]([PROBLEM-TITLE]/README.md)
-
-## Crypto
-- [PROBLEM-TITLE]([PROBLEM-TITLE]/README.md)
-
-## Misc
-- [PROBLEM-TITLE]([PROBLEM-TITLE]/README.md)
+{% for type, subs in probs -%}
+## {{type}}
+{% for k,v in subs -%}
+- [{{k}}]({{v}}/README.md)
+{% endfor %}
+{% endfor %}
