@@ -2,7 +2,7 @@
 
 WriteUps for [{{title}}](Link)
 
-Team Name: **:LOLZZ:**, nth place
+Team Name: `:LOLZZ:`, nth place
 
 {% for type, subs in probs -%}
 ## {{type}}
