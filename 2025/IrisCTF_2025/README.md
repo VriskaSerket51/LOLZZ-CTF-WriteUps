@@ -2,7 +2,7 @@
 
 WriteUps for [IrisCTF 2025](https://2025.irisc.tf/)
 
-Team Name: **:LOLZZ:**, 69th place
+Team Name: `:LOLZZ:`, 69th place
 
 ## Welcome
 - [Sanity Check](sanity-check/README.md)

@@ -2,7 +2,7 @@
 
 WriteUps for [0xL4ugh CTF](https://0xl4ugh.ctf.ae/)
 
-Team Name: **\_\_LOLZZ__**, 6th place
+Team Name: `__LOLZZ__`, 6th place
 
 ## Reverse
 - [Chessato](chessato/README.md)
