@@ -11,3 +11,4 @@ CTF Write-ups for team [:LOLZZ:](https://ctftime.org/team/367339)
 ## 2025
 
 [IrisCTF 2025](2025/IrisCTF_2025/README.md)
+[New Year CTF 2025](2025/IrisCTF_2025/README.md)
