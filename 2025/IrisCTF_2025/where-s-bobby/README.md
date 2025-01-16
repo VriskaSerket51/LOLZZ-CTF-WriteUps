@@ -8,7 +8,7 @@ The flag is the route number and the 2-character abbreviation of the country it 
 ![wheres-bobby](https://github.com/user-attachments/assets/769fd9ef-8ebc-4992-921f-6b42a274f6bb)
 
 
-`todo`
+`tooodo`
 
 
 flag is: **irisctf{3801_CN}**
