@@ -1,8 +1,8 @@
 # {{title}}
 
-`Description`
+## Description
 
-`Solution`
+## Solution
 
 ```python
 foo = "bar"
