@@ -9,6 +9,6 @@ With this things,
 
 we can know this place is 'Hilton_Los_Cabos_Beach_and_Golf_Resort' with google map. It takes some time to see all of road views.
 
-![image](image.png)
+<img src="image.png" alt="image" width="500">
 
 flag is: **irisctf{Hilton_Los_Cabos_Beach_and_Golf_Resort}**
