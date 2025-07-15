@@ -2,7 +2,7 @@
 
 ![LOLZZ](lolzz_emoji.png)
 
-CTF Write-ups for team [:LOLZZ:](https://ctftime.org/team/367339)
+CTF Write-ups for team [:LOLZZ:](https://ctftime.org/team/367339) (a.k.a `__LOLZZ__`, `LOLZZ`)
 
 ## 2024
 
