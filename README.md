@@ -1,6 +1,7 @@
 # LOLZZ CTF WriteUps
 
 ![LOLZZ](lolzz_emoji.png)
+
 CTF Write-ups for team [:LOLZZ:](https://ctftime.org/team/367339)
 
 ## 2024
